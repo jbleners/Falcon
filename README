@@ -1,3 +1,9 @@
+You will need:
+  -- libasync
+  -- yajl
+  -- if you want to build the VMM spy
+    -- a brcm compiler (DD-WRT development websites should have some)
+
 Things that would be nice:
 
   -- A configure script

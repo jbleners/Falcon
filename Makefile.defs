@@ -1,0 +1,6 @@
+CXX		:= g++
+CXXFLAGS	:= -Wall -g -DLOG
+PROJECT_INCLUDES := ../include
+SFSINCLUDE	:= /usr/include/sfslite
+SFSLIB		:= /usr/lib/sfslite
+SFSLINK		:= -L/usr/lib/sfslite -Wl,-rpath -Wl,/usr/lib/sfslite

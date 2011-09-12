@@ -1,1 +1,4 @@
-This is a placeholder until Falcon's code is migrated.
+Things that would be nice:
+
+  -- A configure script
+  -- Not keeping the support libraries for the switch around in binary form
